@@ -2,7 +2,7 @@ geopy>=1.11.0
 protobuf>=3.0.0
 flask>=0.11.1
 sqlalchemy>=1.1.0
-git+git://github.com/ZeChrales/aiopogo#egg=aiopogo
+git+https://github.com/DennyLoko/aiopogo@goman+beta#egg=aiopogo
 polyline>=1.3.1
 aiohttp>=2.1,<2.3
 pogeo==0.3.*
